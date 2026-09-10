@@ -4,7 +4,7 @@
 
 ### FULL STACK AI ENGINEER
 
-`AI × SOFTWARE ENGINEERING × CREATIVITY`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+%C3%97+SOFTWARE+ENGINEERING;BUILDING+INTELLIGENT+APPLICATIONS;TURNING+IDEAS+INTO+PRODUCTS;FULL+STACK+AI+ENGINEER" alt="Typing animation"/>
 
 <br>
 
@@ -83,5 +83,13 @@ Make it smarter, cleaner, and better.
 <br>
 
 `AI` · `CODE` · `CURIOSITY`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Akshaya-c/Akshaya-c/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 
 </div>
