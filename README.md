@@ -4,7 +4,7 @@
 
 ### FULL STACK AI ENGINEER
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+%C3%97+SOFTWARE+ENGINEERING;BUILDING+INTELLIGENT+APPLICATIONS;TURNING+IDEAS+INTO+PRODUCTS;FULL+STACK+AI+ENGINEER" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+%C3%97+SOFTWARE+ENGINEERING;BUILDING+INTELLIGENT+APPLICATIONS;TURNING+IDEAS+INTO+PRODUCTS;FULL+STACK+AI+ENGINEER" alt="Typing animation"/>
 
 <br>
 
@@ -78,18 +78,14 @@ Make it smarter, cleaner, and better.
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&center=true&vCenter=true&width=600&lines=Currently+building+with+AI;Learning+%E2%86%92+Building+%E2%86%92+Improving;Turning+ideas+into+working+products" alt="Currently building animation"/>
+
+<br><br>
+
 ### BUILDING THINGS THAT SHOULD EXIST.
 
 <br>
 
 `AI` · `CODE` · `CURIOSITY`
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Akshaya-c/Akshaya-c/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 
 </div>
