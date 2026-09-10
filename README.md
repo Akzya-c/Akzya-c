@@ -4,22 +4,18 @@
 
 # AKSHAYA C
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=32&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=850&height=70&lines=FULL+STACK+AI+ENGINEER;AI+%C3%97+SOFTWARE+ENGINEERING;BUILDING+INTELLIGENT+APPLICATIONS;TURNING+IDEAS+INTO+SYSTEMS" />
-
-### `code` · `create` · `break` · `debug` · `repeat`
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=32&duration=2400&pause=700&color=FFFFFF&center=true&vCenter=true&width=850&height=70&lines=FULL+STACK+AI+ENGINEER;BUILDING+WITH+AI;BUILDING+WITH+CODE;TURNING+IDEAS+INTO+PRODUCTS" />
 
 <br>
 
 <a href="https://portfolio-virid-nine-31.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://leetcode.com/u/akshaya09-c/">
-<img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/akshaya3">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
@@ -28,174 +24,129 @@
 
 ---
 
-## ✦ WHO AM I?
+## ✦ About
+
+I'm an **IT student building toward Full Stack AI Engineering**.
+
+I enjoy taking an idea from a blank screen and turning it into something that actually works — combining **modern web development, backend engineering, databases and AI** along the way.
+
+> **Build it. Break it. Understand it. Build it better.**
+
+---
+
+## ⚡ My Stack
+
+### 🤖 AI / ML
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="45"/>
+
+</div>
+
+`Machine Learning` · `Deep Learning` · `Generative AI` · `RAG` · `Embeddings` · `Semantic Search`
+
+---
+
+### 🌐 Frontend
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" height="45"/>
+
+</div>
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+
+---
+
+### ⚙️ Backend
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express" height="45"/>
+
+</div>
+
+`FastAPI` · `Flask` · `Node.js` · `Express.js` · `REST APIs`
+
+---
+
+### 🗄️ Database & Data
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="45"/>
+
+</div>
+
+`PostgreSQL` · `pgvector` · `MySQL` · `MongoDB` · `SQL` · `NumPy` · `Pandas`
+
+---
+
+### 🛠️ Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="45"/>
+
+</div>
+
+`Git` · `GitHub` · `VS Code` · `Vercel`
+
+---
+
+## 🧠 What I'm Exploring
+
+<div align="center">
+
+| 🧠 AI |  🔎 Retrieval |    👁️ Vision   | ⚙️ Engineering |
+| :---: | :-----------: | :-------------: | :------------: |
+| GenAI |      RAG      |      OpenCV     |     FastAPI    |
+|  LLMs |   Embeddings  | Computer Vision |     Next.js    |
+|   ML  | Vector Search |    AI Vision    |   PostgreSQL   |
+
+</div>
+
+---
+
+## 🚧 Currently Building
+
+**AI × Full Stack**
+
+I'm focused on building applications where AI isn't simply added as a feature — it's part of the product itself.
 
 ```text
-I don't want to just write code.
-
-I want to understand the problem,
-design the system,
-build it,
-break it,
-fix it,
-and turn it into something people can actually use.
-```
-
-I'm an **IT student building toward Full Stack AI Engineering**, with a particular interest in the space where **AI meets real software products**.
-
-My playground currently includes **RAG, Generative AI, Machine Learning, Computer Vision, APIs, databases and modern web applications.**
-
----
-
-## ⚡ WHAT I BUILD
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🧠 AI
-
-Machine Learning
 Generative AI
-RAG
-Embeddings
-Semantic Search
-Computer Vision
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌐 FULL STACK
-
-Next.js
-React
-TypeScript
-FastAPI
-Python
-REST APIs
-
-</td>
-
-<td width="33%" align="center">
-
-### 🗄️ DATA
-
-PostgreSQL
-pgvector
-SQL
-MySQL
-MongoDB
-NumPy · Pandas
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 CURRENTLY BUILDING
-
-```diff
-+ AI-powered applications
-+ RAG & semantic retrieval systems
-+ Full-stack AI architectures
-+ Computer Vision experiments
-+ Stronger DSA fundamentals
-```
-
-### My current loop
-
-**IDEA**
-↓
-**ARCHITECTURE**
-↓
-**CODE**
-↓
-**WHY IS THIS BROKEN?**
-↓
-**DEBUG**
-↓
-**OH. NOW I GET IT.**
-↓
-**BUILD BETTER**
-
----
-
-## 📊 THE ENGINEER SIDE
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akzya-c&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akzya-c&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666" width="48%"/>
-
-</div>
-
----
-
-## 🧠 CURRENT FOCUS
-
-<table>
-<tr>
-<td>🤖 Artificial Intelligence</td>
-<td>⚙️ Backend Engineering</td>
-</tr>
-<tr>
-<td>🔎 RAG & Vector Search</td>
-<td>🗃️ PostgreSQL</td>
-</tr>
-<tr>
-<td>👁️ Computer Vision</td>
-<td>🧩 Data Structures & Algorithms</td>
-</tr>
-</table>
-
----
-
-## 🐍 MY CODE HAS A LIFE OF ITS OWN
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-## ✦ A LITTLE MORE ABOUT ME
-
-```yaml
-role: Full Stack AI Engineer
-currently: Building + learning
-languages:
-  - Python
-  - TypeScript
-  - JavaScript
-  - SQL
-
-interests:
-  - Artificial Intelligence
-  - Generative AI
-  - Full Stack Development
-  - Computer Vision
-  - RAG Systems
-
-mindset:
-  - Build over watch
-  - Understand over memorize
-  - Curiosity over comfort
+      +
+Full Stack Development
+      +
+Data & Retrieval
+      +
+Problem Solving
+      ↓
+Intelligent Applications
 ```
 
 ---
 
+## 🧩 My Developer Personality
+
+```text
+Curious enough to ask "why?"
+Stubborn enough to debug it.
+Crazy enough to build it anyway.
+```
+
+I learn best by **building real things**, breaking them, figuring out why they broke, and then making them better.
+
+---
+
 <div align="center">
 
-### `AI × CODE × CURIOSITY`
+## `FULL STACK AI ENGINEER`
 
-<br>
-
-**Building today. Becoming better tomorrow.**
+### AI × Code × Curiosity
 
 <br>
 
@@ -203,10 +154,10 @@ mindset:
   •  
 🧩 [LeetCode](https://leetcode.com/u/akshaya09-c/)
   •  
-💼 [LinkedIn](https://www.linkedin.com/in/akshaya3/)
+💼 [LinkedIn](https://www.linkedin.com/in/akshaya3)
 
 <br><br>
 
-`Thanks for stopping by.` 🖤
+**Thanks for stopping by. 🖤**
 
 </div>
